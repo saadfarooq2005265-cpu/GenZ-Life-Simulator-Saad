@@ -1,0 +1,3 @@
+Version control is a system that allows me to track changes in my project files over time. 
+It helps me save different versions of my work, collaborate with others, and revert to previous states if something goes wrong. 
+Using Git and GitHub, I can manage my code efficiently, keep a record of all updates, and share my project safely.
